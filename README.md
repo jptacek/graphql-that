@@ -11,4 +11,10 @@ Initial setup of Git reposistory. Add `.vscode` settings for colorization of tit
 Frist code exmaples of GraphQL. Install graphql and run samples
 `npm install graphql --save`
 
+Run samples
+`cd ./src/01-first-code`
+`node sample1.js`
+`node sample2.js`
+
+
 
