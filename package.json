@@ -15,8 +15,12 @@
   ],
   "author": "jptacek@gmail.com",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/jptacek/graphql-that/issues"
   },
-  "homepage": "https://github.com/jptacek/graphql-that#readme"
+  "homepage": "https://github.com/jptacek/graphql-that#readme",
+  "dependencies": {
+    "graphql": "^16.5.0"
+  }
 }
