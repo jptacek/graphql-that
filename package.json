@@ -1,0 +1,22 @@
+{
+  "name": "graphql-that",
+  "version": "0.1.0",
+  "description": "Demo code for 2022 That Conference presentation on graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jptacek/graphql-that.git"
+  },
+  "keywords": [
+    "Graphql"
+  ],
+  "author": "jptacek@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jptacek/graphql-that/issues"
+  },
+  "homepage": "https://github.com/jptacek/graphql-that#readme"
+}
